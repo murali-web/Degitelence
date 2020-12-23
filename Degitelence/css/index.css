@@ -1,0 +1,1037 @@
+@font-face {
+    font-family: GothamRounded;
+    src: url(../font/GothamRounded-Book.otf)
+}
+
+.main-banner {
+    background-image: url(../image/digitelence-banner.png);
+    height: 771px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.logo-sec {
+    padding: 18px 0px 0px 0px;
+}
+
+.menu-list {
+    padding: 0px 70px 0px 70px;
+}
+
+.navbar-light .navbar-nav .nav-link:focus,
+.navbar-light .navbar-nav .nav-link:hover {
+    color: #fff;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #fff;
+    padding: 0px 20px 0px 20px;
+    font-family: GothamRounded;
+}
+
+.cont-us {
+    border: 1px solid #fff;
+    border-radius: 100px;
+    padding: 6px;
+    margin-top: -8px;
+    margin-left: 20px;
+}
+
+.robust-innovative h1 {
+    color: #FFFFFF;
+    font-family: GothamRounded;
+    font-size: 40px;
+    line-height: 52px;
+    padding: 130px 60% 0px 20px;
+    text-align: left;
+}
+
+.to-empower-enterpris p {
+    color: #FFFFFF;
+    font-family: GothamRounded;
+    font-size: 24px;
+    line-height: 33px;
+    text-align: left;
+    padding: 10px 67% 0px 20px;
+}
+
+.degit {
+    margin-top: 50px;
+    margin-bottom: 65px;
+}
+
+.hello-were h2 {
+    text-align: center;
+    font-size: 40px;
+    font-weight: 600;
+    font-family: GothamRounded;
+    color: #444444;
+}
+
+.hello-were p {
+    text-align: center;
+    font-size: 20px;
+    font-family: GothamRounded;
+    color: #999;
+    margin-bottom: 50px;
+}
+
+.omni-chanl {
+    background-color: #fff;
+    border-radius: 30px;
+    box-shadow: 0 1px 9px 0 rgba(74, 113, 122, .26);
+    padding: 30px;
+    text-align: center;
+}
+
+.channel-text p {
+    padding: 16px 19px 0px 19px;
+    font-size: 15px;
+    margin-bottom: 0px;
+    font-family: GothamRounded;
+    font-weight: 600;
+}
+
+.why-us {
+    background-image: url(../image/why-us-bg.png);
+    height: 139px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.y-us h3 {
+    color: #FFFFFF;
+    font-family: GothamRounded;
+    font-size: 48px;
+    line-height: 66px;
+    text-align: center;
+    font-weight: 600;
+}
+
+.our-vision-is-to-pro p {
+    color: #FFFFFF;
+    font-family: GothamRounded;
+    font-size: 23px;
+    line-height: 34px;
+    text-align: left;
+    font-weight: 600;
+}
+
+.wy-row {
+    padding-top: 30px;
+}
+
+.our-sec {
+    margin-top: 50px;
+}
+
+.our-plat h4 {
+    color: #444444;
+    font-family: GothamRounded;
+    font-size: 36px;
+    line-height: 66px;
+    text-align: center;
+    font-weight: 600;
+}
+
+.hr-border {
+    background-color: #FC7602;
+    width: 58px;
+    height: 4px;
+    margin-top: -18px;
+}
+
+.build-row {
+    margin-top: 30px;
+}
+
+.our-plat {
+    text-align: -webkit-center;
+    margin-bottom: 50px;
+    padding-top: 50px;
+}
+
+#tabs {
+    background: #fff;
+    margin-top: 70px;
+}
+
+#tabs h6.section-title {
+    color: #eee;
+}
+
+#tabs .nav-tabs .nav-item.show .nav-link,
+.nav-tabs .nav-link.active {
+    color: #fff !important;
+    background-color: #f6762a;
+    border-color: transparent transparent #f3f3f3;
+    border-bottom: 4px solid #B30012!important;
+    font-size: 22px;
+    font-weight: bold;
+    line-height: 30px;
+}
+
+#tabs .nav-tabs .nav-link {
+    color: #999999;
+    font-family: GothamRounded;
+    font-size: 22px;
+    line-height: 30px;
+    text-align: center;
+    border-radius: 0%;
+}
+
+.omni-channel-busines h5 {
+    color: #444444;
+    font-family: GothamRounded;
+    font-size: 34px;
+    line-height: 40px;
+    text-align: left;
+    font-weight: 600;
+    padding-top: 18px;
+}
+
+.connected-and-seamle p {
+    color: #888888;
+    font-family: GothamRounded;
+    font-size: 16px;
+    line-height: 25px;
+    text-align: left;
+    padding: 10px 30px 0px 0px;
+}
+
+.icon-1 p {
+    color: #888888;
+    font-family: GothamRounded;
+    font-size: 16px;
+    line-height: 34px;
+    text-align: left;
+    margin-bottom: 0px;
+}
+
+.icon-1 img {
+    padding-right: 10px;
+}
+
+.our-serv {
+    background-color: #F8F9FB;
+    margin-top: 40px;
+    padding-bottom: 60px;
+}
+
+a.nav-link.link-a {
+    color: #999999;
+    background-color: #F2F2F2;
+    padding: 20px;
+    line-height: 17px;
+    font-size: 15px;
+    border-radius: 0;
+    border-bottom: none;
+    border-right: 1px solid #fff;
+    width: 185px;
+    height: 100px;
+    text-align: center;
+    font-family: GothamRounded;
+}
+
+a.nav-link.link-a.active {
+    background-image: linear-gradient(180deg, #FC7602 0%, #B30012 100%);
+    color: #fff !important;
+    padding: 20px;
+    line-height: 17px;
+    font-size: 14px;
+    border-radius: 0;
+    border-bottom: none !important;
+    border-right: 1px solid #fff;
+    width: 185px;
+    height: 100px;
+    text-align: center;
+    font-family: GothamRounded;
+    font-weight: 600;
+}
+
+.nav-tabs .nav-link:focus,
+.nav-tabs .nav-link:hover {
+    border: none;
+}
+
+ul.nav.nav-tabs.bt-nav {
+    border: none;
+}
+
+.white-icon {
+    display: flex;
+    margin: auto;
+    width: 35px;
+    height: 35px;
+}
+
+.max-leg {
+    margin-top: 20px;
+    background-color: #fff;
+    padding: 30px 30px;
+}
+
+.our-focus-is-to-cr h6 {
+    color: #444444;
+    font-family: GothamRounded;
+    font-size: 22px;
+    line-height: 30px;
+    text-align: left;
+    font-weight: 600;
+}
+
+.our-focus p {
+    color: #888888;
+    font-family: GothamRounded;
+    font-size: 16px;
+    line-height: 25px;
+    text-align: left;
+}
+
+.men-tors {
+    background-color: #ECFFF3;
+    padding-bottom: 50px;
+}
+
+.al-siraj-board-of-dir {
+    text-align: center;
+}
+
+.al-siraj-board-of-dir p {
+    color: #444444;
+    font-family: GothamRounded;
+    font-size: 16px;
+    line-height: 21px;
+    font-weight: 600;
+    padding-top: 15px;
+}
+
+.men-row {
+    max-width: 730px;
+    margin: 0 auto;
+}
+
+.in-collaboration {
+    margin-bottom: 60px;
+}
+
+.byte-log {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 1px 9px 0 rgba(74, 113, 122, .26);
+    padding: 15px 0px;
+    text-align: center;
+}
+
+.byt-lab {
+    width: 239px;
+    height: 97px;
+}
+
+.footer_clr {
+    background-color: #1A1A1A;
+}
+
+.need-f-text h5 {
+    color: #FFFFFF;
+    font-family: GothamRounded;
+    font-size: 26px;
+    line-height: 32px;
+    font-weight: 600;
+    text-align: left;
+    padding-top: 50px;
+}
+
+.need-f-text p {
+    color: #FFFFFF;
+    font-family: GothamRounded;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: left;
+    padding: 10px 0px 0px 0px;
+    margin-bottom: 0px;
+}
+
+.need-quote {
+    background-color: #1a1a1a;
+    border-bottom: 1px solid #D8D8D8 !important;
+    border-radius: 0%;
+    margin-top: 18px;
+    border-color: transparent;
+    padding: 0%;
+    font-family: GothamRounded;
+}
+
+.need-quote:focus {
+    color: #fff;
+    background-color: #1a1a1a;
+    border-color: transparent;
+    outline: none;
+    box-shadow: none;
+}
+
+.submit-btn button {
+    border: none;
+    outline: none;
+    color: #fff;
+    background-image: linear-gradient(180deg, #FC7602 0%, #B30012 100%);
+    border-radius: 23px;
+    font-size: 16px;
+    font-family: GothamRounded;
+    padding: 7px 40px;
+    font-weight: 600;
+}
+
+.submit-btn {
+    margin-top: 30px;
+}
+
+.our-loc h6 {
+    color: #FFFFFF;
+    font-family: GothamRounded;
+    font-size: 22px;
+    line-height: 51px;
+    text-align: left;
+}
+
+.our-loc p {
+    color: #FFFFFF;
+    font-family: GothamRounded;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: left;
+    margin-bottom: 0px;
+}
+
+.mail-us h6 {
+    color: #FFFFFF;
+    font-family: GothamRounded;
+    font-size: 22px;
+    line-height: 51px;
+    text-align: left;
+}
+
+.mail-us p {
+    margin-bottom: 0px;
+}
+
+.mail-us p a {
+    color: #FFFFFF;
+    font-family: GothamRounded;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: left;
+    margin-bottom: 0px;
+    text-decoration: none;
+}
+
+.call-us h6 {
+    color: #FFFFFF;
+    font-family: GothamRounded;
+    font-size: 22px;
+    line-height: 51px;
+    text-align: left;
+}
+
+.call-us p {
+    margin-bottom: 0px;
+}
+
+.call-us p a {
+    color: #FFFFFF;
+    font-family: GothamRounded;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: left;
+    text-decoration: none;
+}
+
+.address-info {
+    border-left: 1px solid #333333;
+    padding-left: 60px;
+}
+
+.adre {
+    padding-top: 50px;
+}
+
+.copy-right {
+    border-top: 1px solid #3333;
+    margin-top: 20px;
+}
+
+.digi-copy p {
+    color: #FFFFFF;
+    font-family: GothamRounded;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: left;
+    margin-bottom: 0px;
+}
+
+.follow-us p {
+    color: #555555;
+    font-family: GothamRounded;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: right;
+    margin-bottom: 0px;
+}
+
+.copy-row {
+    padding: 10px 0px;
+}
+
+.linkkkk {
+    background-color: #555555;
+    color: #1A1A1A;
+    border-radius: 44%;
+    width: 20px;
+    height: 20px;
+    padding-right: 3px;
+}
+
+
+/* Pulse Grow */
+
+@keyframes pulse-grow {
+    to {
+        transform: scale(1.1);
+    }
+}
+
+.pulse-grow {
+    display: inline-block;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    transform: translateZ(0);
+    background-color: #fff;
+    border-radius: 30px;
+    box-shadow: 0 1px 9px 0 rgba(74, 113, 122, .26);
+    padding: 30px;
+    text-align: center;
+    width: 330px;
+    height: 210px;
+}
+
+.pulse-grow:hover {
+    animation-name: pulse-grow;
+    animation-duration: 0.3s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+
+
+/* Pulse Grow1 */
+
+@keyframes pulse-grow1 {
+    to {
+        transform: scale(1.1);
+    }
+}
+
+.pulse-grow1 {
+    display: inline-block;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    transform: translateZ(0);
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 1px 9px 0 rgba(74, 113, 122, .26);
+    padding: 19px 0px;
+    text-align: center;
+    width: 340px;
+}
+
+.pulse-grow1:hover {
+    animation-name: pulse-grow;
+    animation-duration: 0.3s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+
+.stem-lb-btn {
+    border: none;
+    outline: none !important;
+    background-image: linear-gradient(138.47deg, #0A4896 0%, #101D5E 100%);
+    border-radius: 23px;
+    color: #fff;
+    padding: 12px 46px 12px 46px;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    font-family: GothamRounded;
+}
+
+.stem-pro-btn {
+    border: none;
+    outline: none !important;
+    background-image: linear-gradient(180deg, #FBDD59 0%, #FF6D00 100%);
+    border-radius: 23px;
+    padding: 12px 20px 12px 20px;
+    color: #FFFFFF;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    font-family: GothamRounded;
+}
+
+.stem-btns {
+    margin-top: 40px;
+}
+
+.pra-ya {
+    margin-top: 30px;
+    margin-left: -29px;
+}
+
+.fintechimg {
+    text-align: center;
+    margin: 50px 0px 10px 0px;
+}
+
+.icon-sytem {
+    display: flex;
+    padding-bottom: 18px;
+}
+
+.icon-sytem img {
+    width: 23px;
+    height: 23px;
+}
+
+.icon-sytem p {
+    color: #888888;
+    font-family: GothamRounded;
+    font-size: 16px;
+    line-height: 22px;
+    text-align: left;
+    margin-bottom: 0px;
+    padding-left: 15px;
+}
+
+.key-tex p {
+    color: #888888;
+    font-family: GothamRounded;
+    font-size: 16px;
+    line-height: 25px;
+    text-align: left;
+    padding-top: 20px;
+}
+
+.to-design {
+    text-align: center;
+}
+
+.click-here {
+    margin-top: 20px;
+}
+
+.click-here button {
+    border: none;
+    outline: none !important;
+    background-image: linear-gradient(138.47deg, #0A4896 0%, #101D5E 100%);
+    border-radius: 23px;
+    color: #fff;
+    padding: 12px 46px 12px 46px;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    font-family: GothamRounded;
+}
+
+@media (max-width: 991px) and (min-width: 768px) {
+    .menu-list {
+        padding: 0px;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        padding: 0px 5px 0px 5px;
+        font-size: 14px;
+    }
+    .cont-us {
+        padding: 6px;
+        margin-top: -7px;
+        margin-left: 0px;
+    }
+    .robust-innovative h1 {
+        font-size: 30px;
+        line-height: 42px;
+        padding: 60px 160px 0px 0px;
+        text-align: left;
+    }
+    .to-empower-enterpris p {
+        font-size: 24px;
+        line-height: 33px;
+        text-align: left;
+        padding: 30px 220px 0px 0px;
+    }
+    .main-banner {
+        height: 500px;
+    }
+    .byt-lab {
+        width: 149px;
+        height: 97px;
+    }
+    .channel-text p {
+        font-size: 14px;
+    }
+    .our-vision-is-to-pro p {
+        font-size: 18px;
+        line-height: 24px;
+    }
+    #tabs {
+        background: #fff;
+        margin-top: 0px;
+    }
+    a.nav-link.link-a.active {
+        width: 345px;
+        height: 100px;
+    }
+    a.nav-link.link-a {
+        width: 345px;
+        height: 100px;
+    }
+    .omni-channel-busines h5 {
+        font-size: 24px;
+    }
+    .pulse-grow {
+        width: 210px;
+    }
+    .pulse-grow1 {
+        width: 210px;
+    }
+    #tabs .nav-tabs .nav-link {
+        font-size: 16px;
+    }
+}
+
+@media (max-width: 425px) {
+    .menu-list {
+        padding: 0px;
+    }
+    .navbar-light .navbar-toggler {
+        color: #fff;
+        border-color: transparent;
+        outline: none;
+        margin-left: 10px;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        padding: 5px 0px;
+    }
+    .cont-us {
+        border: 1px solid #fff;
+        border-radius: 100px;
+        padding: 0px 0px 0px 8px;
+        margin-left: -4px;
+        width: 102px;
+        margin-top: 3px;
+    }
+    a.nav-link.link-a {
+        width: 197px;
+        height: 120px;
+    }
+    a.nav-link.link-a.active {
+        width: 197px;
+        height: 120px;
+    }
+    .byte-log {
+        margin-bottom: 20px;
+    }
+    .to-empower-enterpris p {
+        padding: 0px 50% 0px 0px;
+        text-align: center;
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .robust-innovative h1 {
+        font-size: 18px;
+        line-height: 22px;
+        text-align: center;
+        padding: 13px 49% 0px 3px;
+        margin-top: 0px;
+    }
+    .hello-were h2 {
+        font-size: 30px;
+    }
+    .hello-were p {
+        padding: 0px 20px;
+        font-size: 18px;
+        margin-bottom: 20px;
+    }
+    .omni-chanl {
+        margin-bottom: 30px;
+    }
+    .y-us h3 {
+        font-size: 38px;
+        line-height: 46px;
+    }
+    .our-vision-is-to-pro p {
+        font-size: 18px;
+        line-height: 24px;
+        text-align: center;
+    }
+    .why-us {
+        height: 188px;
+    }
+    #tabs {
+        margin-top: 10px;
+    }
+    .our-plat {
+        margin-bottom: 20px;
+    }
+    div#nav-tab {
+        display: block;
+    }
+    .address-info {
+        border-left: none;
+        padding-left: 0px;
+        border-top: 1px solid #3333;
+    }
+    .our-loc h6,
+    .mail-us h6,
+    .call-us h6 {
+        font-size: 18px;
+    }
+    .digi-copy p,
+    .follow-us p {
+        font-size: 12px;
+    }
+    .linkkkk {
+        width: 14px;
+        height: 14px;
+        padding-right: 2px;
+    }
+    .in-collaboration {
+        margin-bottom: 10px;
+    }
+    .omnitab-img {
+        margin-bottom: 30px;
+    }
+    .to-design {
+        margin-top: 30px;
+    }
+    .pulse-grow {
+        width: 395px;
+        height: 210px;
+        margin-bottom: 30px;
+    }
+    .pulse-grow1 {
+        margin: 0px auto 20px auto;
+        display: block;
+    }
+    div#nav-content {
+        position: absolute;
+        top: 66px;
+        background-color: rgb(37 34 64);
+        width: 100%;
+        color: rgb(0, 0, 0);
+        opacity: 0.99;
+    }
+    .moblie-st {
+        padding: 15px
+    }
+    .mob_ile {
+        padding: 0%;
+    }
+    nav.navbar.navbar-expand-sm.navbar-light.bg-faded {
+        padding: 0%;
+    }
+    .stem-lb-btn {
+        margin-bottom: 12px;
+    }
+    .stem-pro-btn {
+        padding: 9px 23px 9px 15px;
+    }
+    .main-banner {
+        background-image: url(../image/digitelence-banner.png);
+        height: 352px;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: contain;
+    }
+    .logo-sec {
+        background-color: #28235b;
+    }
+    .degit {
+        margin-top: 0px;
+    }
+    .max-leg {
+        padding: 0px 10px;
+    }
+}
+
+@media (max-width: 375px) and (min-width: 360px) {
+    .menu-list {
+        padding: 0px;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        padding: 5px 0px;
+    }
+    .cont-us {
+        margin-left: -6px;
+        width: 102px;
+    }
+    .navbar-light .navbar-toggler {
+        color: #fff;
+        border-color: transparent;
+        outline: none;
+        margin-left: 10px;
+    }
+    .robust-innovative h1 {
+        font-size: 18px;
+        line-height: 22px;
+        text-align: center;
+        padding: 10px 43% 0px 0px;
+        margin-top: 0px;
+    }
+    .to-empower-enterpris p {
+        font-size: 14px;
+        line-height: 20px;
+        text-align: center;
+        padding: 0px 48% 0px 0px;
+    }
+    .hello-were h2 {
+        font-size: 30px;
+    }
+    .hello-were p {
+        font-size: 20px;
+        padding: 0px 20px;
+        margin-bottom: 30px;
+    }
+    .omni-chanl {
+        margin-bottom: 30px;
+    }
+    .why-us {
+        height: 219px;
+    }
+    .y-us h3 {
+        font-size: 38px;
+        line-height: 36px;
+    }
+    .our-vision-is-to-pro p {
+        font-size: 18px;
+        line-height: 34px;
+        text-align: center;
+        font-weight: 100;
+    }
+    .our-plat {
+        padding-top: 0px;
+    }
+    #tabs {
+        margin-top: 35px;
+    }
+    div#nav-tab {
+        display: block;
+    }
+    .omni-channel-busines h5 {
+        font-size: 24px;
+    }
+    .connected-and-seamle p {
+        padding: 0px;
+    }
+    .our-plat h4 {
+        font-size: 30px;
+        padding-top: 20px;
+    }
+    a.nav-link.link-a {
+        width: 165px;
+        height: 120px;
+    }
+    a.nav-link.link-a.active {
+        width: 165px;
+        height: 120px;
+    }
+    .byte-log {
+        margin-bottom: 20px;
+    }
+    .address-info {
+        border-top: 1px solid #333333;
+        padding-left: 0px;
+        border-left: none;
+    }
+    .digi-copy p {
+        font-size: 10px;
+    }
+    .follow-us p {
+        font-size: 10px;
+    }
+    .linkkkk {
+        background-color: #555555;
+        color: #1A1A1A;
+        border-radius: 44%;
+        width: 15px;
+        height: 14px;
+        padding-right: 3px;
+    }
+    .our-loc h6,
+    .mail-us h6,
+    .call-us h6 {
+        font-size: 16px;
+    }
+    .need-f-text h5 {
+        font-size: 24px;
+        padding-top: 30px;
+    }
+    .in-collaboration {
+        margin-bottom: 15px;
+    }
+    .omnitab-img {
+        margin-bottom: 30px;
+    }
+    .to-design {
+        margin-top: 30px;
+    }
+    .pulse-grow {
+        padding: 30px;
+        text-align: center;
+        margin: 0px auto 20px auto;
+        display: block;
+        width: auto;
+    }
+    .pulse-grow1 {
+        margin: 0px auto 20px auto;
+        display: block;
+        width: auto;
+    }
+    div#nav-content {
+        position: absolute;
+        top: 66px;
+        background-color: rgb(37 34 64);
+        width: 100%;
+        color: rgb(0, 0, 0);
+        opacity: 0.99;
+    }
+    .moblie-st {
+        padding: 15px
+    }
+    .mob_ile {
+        padding: 0%;
+    }
+    nav.navbar.navbar-expand-sm.navbar-light.bg-faded {
+        padding: 0%;
+    }
+    .stem-lb-btn {
+        margin-bottom: 12px;
+    }
+    .stem-pro-btn {
+        padding: 9px 23px 9px 15px;
+    }
+    .main-banner {
+        background-image: url(../image/digitelence-banner.png);
+        height: 352px;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: contain;
+    }
+    .logo-sec {
+        background-color: #28235b;
+    }
+    .degit {
+        margin-top: 0px;
+    }
+    .max-leg {
+        padding: 0px 10px;
+    }
+}

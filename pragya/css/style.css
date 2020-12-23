@@ -1,0 +1,654 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Raleway', sans-serif;
+}
+
+@font-face {
+    font-family: GothamRounded;
+    src: url(../font/GothamRounded-Book.otf)
+}
+
+.main-navabar {
+    background-image: linear-gradient(180deg, #13151A 0%, rgba(8, 9, 11, 0.88) 100%);
+    padding: 0px 35px!important;
+}
+
+.main-navabar li a {
+    color: #FFFFFF !important;
+    font-family: Raleway;
+    font-size: 14px;
+    line-height: 17px;
+    margin-top: 10px;
+    text-align: left;
+}
+
+.main-navabar li {
+    padding: 5px 18px;
+}
+
+.navbar-dark .navbar-brand {
+    padding-bottom: 0px !important;
+}
+
+.header-btn {
+    background-color: #FCE266;
+    border-radius: 10px;
+    font-family: Muli, sans-serif;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    outline: none !important;
+}
+
+.header-btn1 {
+    background-color: #FCE266;
+    border-radius: 10px;
+    font-family: Muli, sans-serif;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    outline: none !important;
+    padding: 18px 30px;
+    border: none;
+    font-weight: 600;
+    margin-top: 20px;
+    text-transform: uppercase;
+}
+
+
+/* .banner-bg-img {
+    background-image: url(../images/pragya-banner.png);
+    background-position: center;
+    background-size: cover;
+    padding: 14% 0px 18% 0px;
+} */
+
+.banner-text h1 {
+    color: #FFFFFF;
+    font-family: Raleway;
+    font-size: 65px;
+    line-height: 54px;
+    font-weight: bold;
+    text-align: left;
+}
+
+.banner-text p {
+    color: #FFFFFF;
+    font-family: Raleway;
+    font-size: 38px;
+    line-height: 54px;
+    text-align: left;
+    font-weight: 100;
+}
+
+.banner-bg-img {
+    position: relative;
+    display: flex;
+    width: 100%;
+}
+
+.banner-bg-img img {
+    width: 100%;
+}
+
+.banner-text {
+    position: absolute;
+    left: 5%;
+    top: 25%;
+}
+
+.traning-boxes {
+    text-align: center;
+    background-color: #212121;
+    color: #fff;
+    padding: 75px;
+    height: 320px;
+    border-bottom: 6px solid red;
+}
+
+.traning-boxes img,
+.traning-boxes1 img {
+    margin-top: -160px
+}
+
+.traning-boxes1 {
+    text-align: center;
+    background-color: #000;
+    color: #fff;
+    padding: 75px;
+    height: 320px;
+    border-bottom: 6px solid #b39c84;
+}
+
+.traning-boxes h3 {
+    color: #FFFFFF;
+    font-family: Raleway;
+    font-size: 28px;
+    line-height: 27px;
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.traning-boxes p {
+    color: #FFFFFF;
+    font-family: Raleway;
+    font-size: 18px;
+    line-height: 27px;
+    text-align: center;
+}
+
+.features-bg-col {
+    background-color: rgb(0, 0, 0);
+    padding: 70px 0px;
+}
+
+.features-box {
+    padding: 25px;
+}
+
+.features-box h3 {
+    color: #FFFFFF;
+    font-family: Raleway;
+    font-size: 20px;
+    line-height: 27px;
+    text-align: left;
+    margin-top: 20px;
+    font-weight: 600;
+}
+
+.features-box p {
+    color: #999999;
+    font-family: Raleway;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: left;
+}
+
+.features-bg-col h2 {
+    color: #fff;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.roles {
+    color: #999999;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.feature-dotted {
+    border: 1px dotted #999999;
+    padding: 5px 20px;
+    border-radius: 5px;
+    margin-top: 25px;
+}
+
+.feature-dotted h4 {
+    color: #fff;
+    margin-bottom: 15px;
+}
+
+.feature-dotted p {
+    color: #999999;
+    font-family: Raleway;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: left;
+}
+
+.feature-dotted img {
+    margin-top: -50px;
+}
+
+.content-managemet {
+    /* background-image: linear-gradient(0deg, rgba(37, 35, 36, 0.84), rgba(21, 20, 20, 0.86)), url(../images/cms-bg.png); */
+    background-image: url(../images/cms-bg.jpeg);
+    background-position: center;
+    background-size: cover;
+    padding: 70px 0px;
+    opacity: 0.999;
+}
+
+.content-managemet .titel h3,
+.learning-mode .titel h3,
+.brand-identy-bg-col .titel h3 {
+    color: #FFFFFF;
+    font-family: Raleway;
+    font-size: 26px;
+    line-height: 27px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.learning-mode {
+    background-color: #000;
+    padding: 70px 0px;
+}
+
+.brand-identy-bg-col {
+    background-color: #212121;
+    padding: 70px 0px;
+}
+
+.pricing-col {
+    background-color: #2F2F2F;
+    border-radius: 8px 8px 0px 0px !important;
+    height: 620px;
+    padding: 20px;
+    border-radius: 0;
+}
+
+.pricing-col h3 {
+    color: #FFFFFF;
+    font-size: 18px;
+    margin: 15px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.prive-footer-bg {
+    background-color: #393939;
+    border-radius: 0 0 8px 8px;
+    padding: 20px;
+}
+
+.dollar {
+    color: #FF522A;
+    font-size: 20px;
+    line-height: 24px;
+}
+
+.monthly {
+    color: #868686;
+    font-family: Raleway;
+    font-size: 14px;
+}
+
+.pricing-col h3 {
+    color: #FFFFFF;
+    font-family: Raleway;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+}
+
+.contact-form {
+    padding: 20px 95px;
+    max-width: 810px;
+    display: block;
+    margin: 0 auto;
+}
+
+.contact-form .form-control {
+    background-color: #000000;
+    border: 1px solid #979797;
+    border-radius: 0;
+}
+
+textarea#comment {
+    resize: none;
+}
+
+.apply-btn {
+    border: 1px solid #FCE263;
+    background-color: #FCE263;
+    border-radius: 8px;
+    padding: 15px 40px;
+    margin-top: 30px;
+    font-size: 16px;
+}
+
+.footer {
+    background-color: #08090B;
+    padding: 40px 0px;
+}
+
+.location h3 {
+    color: #FFFFFF;
+    font-size: 22px;
+    line-height: 51px;
+    font-weight: bold;
+    text-align: left;
+    font-family: GothamRounded;
+}
+
+.location p {
+    color: #FFFFFF;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: left;
+    margin-bottom: 0px;
+    font-family: GothamRounded;
+}
+
+.copyright-bg-col {
+    background-color: #08090B;
+    padding: 10px 0px;
+}
+
+.copyright p {
+    color: #FFFFFF;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: left;
+}
+
+.socail p {
+    color: #555555;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: left;
+}
+
+.socail i {
+    font-size: 10px;
+    color: #fff;
+    border: 1px solid #555555;
+    background-color: #555555;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    line-height: 16px;
+    margin-left: 5px;
+    color: #000;
+    text-align: center;
+}
+
+.pricing-col h2 {
+    color: #FF522A;
+    font-size: 36px;
+    line-height: 43px;
+}
+
+.pricing-col span {
+    font-size: 16px;
+}
+
+.billed {
+    color: #868686;
+    font-family: Raleway;
+    font-size: 14px;
+    line-height: 17px;
+}
+
+.discount {
+    color: #FF522A;
+    font-family: Raleway;
+    font-size: 14px;
+    line-height: 17px;
+}
+
+.num {
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 24px;
+}
+
+.users,
+.course,
+.cred,
+.stporage {
+    color: #868686;
+    font-family: Raleway;
+    font-size: 14px;
+    line-height: 17px;
+}
+
+.unlimited,
+.gb,
+.store-num {
+    color: #FFFFFF;
+    font-family: Raleway;
+    font-size: 20px;
+    line-height: 24px;
+    font-weight: bold;
+}
+
+.mails {
+    color: #FFFFFF;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.enterprise-bg-img {
+    position: relative;
+}
+
+.enterprise-absolute {
+    position: absolute;
+    top: 90px;
+    left: 0;
+    right: 0;
+    margin: auto;
+    text-align: center;
+}
+
+.enterprise-absolute h3 {
+    color: #FFFFFF;
+    text-transform: uppercase;
+    margin: 15px;
+    font-size: 22px;
+    line-height: 26px;
+}
+
+.enterprise-absolute p {
+    color: #FFFFFF;
+    font-family: Raleway;
+    font-size: 22px;
+    line-height: 26px;
+}
+
+.enterprise-absolute h2 {
+    color: #FF522A;
+    font-size: 48px;
+    line-height: 58px;
+}
+
+.enterprise-absolute h4 {
+    color: #FFFFFF;
+    font-family: Raleway;
+    font-size: 14px;
+    line-height: 17px;
+}
+
+.enterprise-absolute h1 {
+    color: #FFFFFF;
+    font-family: Raleway;
+    font-size: 21px;
+    line-height: 25px;
+}
+
+.mt-40 {
+    margin: 35% 0;
+}
+
+.text-center p {
+    color: #fff;
+    font-family: Raleway;
+}
+
+.location a {
+    color: #fff !important;
+    text-decoration: none !important;
+}
+
+.main-header {
+    background-image: linear-gradient(180deg, #13151A 0%, rgba(8, 9, 11, 0.88) 100%);
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #fff !important;
+    font-family: Raleway;
+    font-size: 14px;
+    line-height: 17px;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    padding: 18px 30px !important;
+}
+
+.in-a-day {
+    margin-top: -100px;
+}
+
+@media screen and (max-width:991px) and (min-width:768px) {
+    .navbar-brand img {
+        width: 120px;
+    }
+    .banner-text h1 {
+        font-size: 48px;
+        line-height: 22px;
+    }
+    .banner-text p {
+        font-size: 24px;
+        line-height: 27px;
+        padding-top: 20px;
+    }
+    .traning-boxes1,
+    .traning-boxes {
+        height: 370px;
+    }
+    .features-bg-col h2 {
+        font-size: 30px;
+    }
+    .features-box h3,
+    .features-box p,
+    .features-box {
+        text-align: center
+    }
+    .prive-footer-bg {
+        margin-bottom: 20px;
+    }
+    .contact-form {
+        padding: 20px 35px;
+    }
+    .col.enterprise-bg-img {
+        text-align: center;
+    }
+    .pricing-col {
+        border-top-left-radius: 8px !important;
+        border-top-right-radius: 8px !important;
+        border-bottom-right-radius: 0 !important;
+        border-bottom-left-radius: 0!important;
+        height: 620px;
+        padding: 20px;
+        border-radius: 0;
+        margin-top: 10px;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        padding: 8px 10px !important;
+    }
+    .header-btn {
+        padding: 5px;
+    }
+    .traning-boxes p,
+    .traning-boxes1 p {
+        font-size: 14px;
+        line-height: 24px;
+        overflow: hidden;
+        height: 125px;
+    }
+    .traning-boxes h3,
+    .traning-boxes1 h3 {
+        font-size: 20px;
+    }
+    .features-box p {
+        overflow: hidden;
+        height: 125px;
+    }
+    .in-a-day {
+        margin-top: -40px;
+    }
+}
+
+@media screen and (max-width:425px) and (min-width:320px) {
+    .navbar-brand img {
+        width: 120px;
+    }
+    .banner-text h1 {
+        font-size: 25px;
+        line-height: 22px;
+    }
+    .banner-text p {
+        font-size: 14px;
+        line-height: 27px;
+    }
+    .traning-boxes1,
+    .traning-boxes {
+        height: 370px;
+    }
+    .features-bg-col h2 {
+        font-size: 30px;
+    }
+    .features-box h3,
+    .features-box p,
+    .features-box {
+        text-align: center
+    }
+    .prive-footer-bg {
+        margin-bottom: 20px;
+    }
+    .contact-form {
+        padding: 20px 35px;
+        margin: 0;
+        width: 100%;
+    }
+    .col.enterprise-bg-img {
+        text-align: center;
+    }
+    .pricing-col {
+        border-top-left-radius: 8px !important;
+        border-top-right-radius: 8px !important;
+        border-bottom-right-radius: 0 !important;
+        border-bottom-left-radius: 0!important;
+        height: 620px;
+        padding: 20px;
+        border-radius: 0;
+        margin-top: 10px;
+    }
+    .navbar-light .navbar-toggler {
+        color: #fff;
+        border-color: transparent !important;
+        outline: none;
+    }
+    .fafaicon {
+        color: #fff;
+    }
+    div#nav-content {
+        position: absolute;
+        top: 91px;
+        background-color: rgb(20 19 23);
+        width: 100%;
+        color: rgb(0, 0, 0);
+        opacity: 0.99;
+        z-index: 9;
+    }
+    .mob-pad {
+        padding: 0px !important;
+    }
+    nav.navbar.navbar-expand-sm.navbar-light.bg-faded {
+        padding: 10px 0px;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        padding: 12px 5px !important;
+    }
+    .header-btn {
+        padding: 0px 5px;
+        width: 150px;
+    }
+    ul.navbar-nav {
+        padding: 10px;
+    }
+    .praya-logo img {
+        margin-right: 10px;
+    }
+    .in-a-day {
+        margin-top: -20px;
+    }
+    .header-btn1 {
+        margin-top: 0px;
+    }
+}

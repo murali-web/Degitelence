@@ -1,0 +1,762 @@
+@font-face {
+    font-family: GothamRounded;
+    src: url(../font/GothamRounded-Book.otf)
+}
+
+.main-header {
+    background-color: #22112E;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #FFFFFF !important;
+    font-family: GothamRounded;
+    font-size: 16px;
+    line-height: 19px;
+}
+
+.main-memu {
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+.cont-us {
+    background-color: #EC5C00;
+    border-radius: 23px;
+    margin-left: 19px;
+    padding: 2px 8px;
+}
+
+.main-banner {
+    background-image: url(../image/mysanthai-banner.png);
+    height: 490px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.future-om h1 {
+    color: #FFFFFF;
+    font-family: sans-serif;
+    font-size: 46px;
+    text-align: left;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.future-om p {
+    color: #FFFFFF;
+    font-family: GothamRounded;
+    font-size: 28px;
+    text-align: left;
+}
+
+.secure-scalable p {
+    color: #FFFFFF;
+    font-family: GothamRounded;
+    font-size: 28px;
+    line-height: 37px;
+    text-align: left;
+    font-weight: 600;
+    padding-top: 15px;
+}
+
+.deliver-exquisite p {
+    color: #FFFFFF;
+    font-family: GothamRounded;
+    font-size: 24px;
+    line-height: 31px;
+    text-align: left;
+}
+
+.future-om {
+    border-left: 4px solid #fff;
+    padding-left: 17px;
+}
+
+.omnichannel-future {
+    padding: 70px 30px 10px 30px;
+}
+
+.single-channel {
+    background-color: #FFEBDE;
+    text-align: center;
+}
+
+.single-channel-info1 img {
+    margin: 25px 0px;
+}
+
+.single-channel-info2 img {
+    margin-top: 35px;
+}
+
+
+/* .single-channel-info3 img {
+margin-bottom: 40px;
+} */
+
+.explore-the-power h2 {
+    color: #222222;
+    font-family: sans-serif;
+    font-size: 32px;
+    line-height: 46px;
+    text-align: left;
+    font-weight: 600;
+}
+
+.increase-your-sales h6 {
+    color: #222222;
+    font-family: GothamRounded;
+    font-size: 18px;
+    line-height: 24px;
+    text-align: left;
+    font-weight: 600;
+}
+
+.increase-your-sales p {
+    color: #777777;
+    font-family: GothamRounded;
+    font-size: 16px;
+    line-height: 23px;
+    text-align: left;
+}
+
+.sales-row {
+    margin: 40px 0px 40px 0px;
+}
+
+.increase-your-sales img {
+    margin: 10px 0px;
+}
+
+.the-power {
+    padding: 35px 50px !important;
+}
+
+.how-does-my-santhai-w {
+    background-color: #22112E;
+    padding-bottom: 20px;
+}
+
+.my-santhai-w h3 {
+    color: #FFFFFF;
+    font-family: GothamRounded;
+    font-size: 38px;
+    line-height: 46px;
+    text-align: center;
+    padding: 40px 0px 15px 0px;
+    font-weight: 600;
+}
+
+.features-why-my-img {
+    background-image: url(../image/my-sens.png);
+    height: 994px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.how-does-my h4 {
+    color: #FFFFFF;
+    font-family: GothamRounded;
+    font-size: 38px;
+    line-height: 46px;
+    text-align: center;
+    font-weight: 600;
+    padding: 70px 0px 20px 0px;
+}
+
+.b-2-c {
+    background-color: rgba(255, 255, 255, 0.1);
+    border-left: 7px solid #B078C6;
+    margin-bottom: 50px;
+    width: 510px;
+    height: 220px;
+}
+
+.b-2-c2 {
+    background-color: rgba(255, 255, 255, 0.1);
+    border-left: 7px solid #EC5C00;
+    width: 510px;
+    height: 220px;
+    margin-bottom: 50px;
+}
+
+.configure-and-showca {
+    padding: 26px 20px 9px 20px;
+}
+
+.configure-and-showca img {
+    padding-bottom: 21px;
+}
+
+.configure-and-showca h5 {
+    color: #FFFFFF;
+    font-family: GothamRounded;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: left;
+    font-weight: 600;
+}
+
+.configure-and-showca p {
+    color: #FFFFFF;
+    font-family: GothamRounded;
+    font-size: 14px;
+    line-height: 21px;
+    text-align: left;
+}
+
+.on-boad {
+    background-color: #F7EDFF;
+    padding-bottom: 30px;
+}
+
+.on-boarding h4 {
+    color: #222222;
+    font-family: GothamRounded;
+    font-size: 38px;
+    line-height: 46px;
+    text-align: center;
+    padding-top: 70px;
+    padding-bottom: 30px;
+    font-weight: 600;
+}
+
+.simple-sg {
+    background-color: #FFFFFF;
+    border: 1px solid #E9D3FB;
+    border-radius: 22px;
+    height: 216px;
+    width: 100%;
+    padding: 25px 40px;
+    margin-bottom: 20px;
+}
+
+.simple-sign img,
+.download-my img {
+    padding-bottom: 17px;
+}
+
+.simple-sign h6,
+.download-my h6 {
+    color: #222222;
+    font-family: GothamRounded;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: left;
+    font-weight: 600;
+}
+
+.simple-sign p,
+.download-my p {
+    color: #777777;
+    font-family: GothamRounded;
+    font-size: 16px;
+    line-height: 23px;
+    text-align: left;
+}
+
+.onboarding {
+    text-align: center;
+}
+
+.onboarding img {
+    margin-top: 20%;
+}
+
+.for-cust {
+    margin-bottom: 30px;
+}
+
+.download-my-santhai {
+    background-color: #FFFFFF;
+    border: 1px solid #C4C4C4;
+    border-radius: 15px;
+    width: 100%;
+    height: 172px;
+    padding: 20px 30px;
+    margin-bottom: 20px;
+}
+
+.onbo-sel img {
+    margin-top: 25px;
+}
+
+.technology-partn {
+    background-color: #ECF5FD;
+    padding: 73px 0px;
+}
+
+.partn h5 {
+    color: #222222;
+    font-family: GothamRounded;
+    font-size: 34px;
+    line-height: 46px;
+    text-align: end;
+    font-weight: 600;
+}
+
+.need-a-quote {
+    background-image: url(../image/form-bg.png);
+    height: 572px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.get-in-touch h5 {
+    color: #1A1A1A;
+    font-family: GothamRounded;
+    font-size: 32px;
+    line-height: 40px;
+    text-align: center;
+    margin-bottom: 0px;
+    font-weight: 600;
+}
+
+.get-in-touch h6 {
+    color: #1A1A1A;
+    font-family: GothamRounded;
+    font-size: 20px;
+    line-height: 40px;
+    text-align: center;
+    margin-bottom: 0px;
+}
+
+.get-in-touch p {
+    color: #1A1A1A;
+    font-family: GothamRounded;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    margin-bottom: 0px;
+}
+
+.get-in-touch {
+    padding-top: 60px;
+}
+
+.need-quote {
+    background-color: transparent !important;
+    border-bottom: 1px solid #000 !important;
+    border-top: none !important;
+    border-left: none !important;
+    border-right: none !important;
+    border-radius: 0% !important;
+    margin-top: 18px;
+    border-color: transparent;
+    padding: 0% !important;
+    font-family: GothamRounded;
+    border: none;
+    color: #000 !important;
+}
+
+.need-quote:focus {
+    color: #fff;
+    background-color: #1a1a1a;
+    border-color: transparent;
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+.submit-btn button {
+    border: none;
+    outline: none !important;
+    color: #fff;
+    background-color: #22112E;
+    border-radius: 23px;
+    font-size: 16px;
+    font-family: GothamRounded;
+    padding: 10px 30px;
+    font-weight: 600;
+    line-height: 19px;
+}
+
+.footer-form-info {
+    display: block;
+    max-width: 700px;
+    margin: 60px auto 0 auto;
+}
+
+.submit-btn {
+    text-align: center;
+    margin-top: 50px;
+}
+
+input.form-control.need-quote::placeholder {
+    font-weight: 600;
+    color: #000;
+    font-size: 14px;
+}
+
+.mysanthai-fot {
+    background-color: #22112E;
+}
+
+.footer-row {
+    padding: 50px 0px 30px 0px;
+}
+
+.mysanthai-loc h6,
+.my-mail-us h6,
+.cal-us h6 {
+    color: #FFFFFF;
+    font-family: GothamRounded;
+    font-size: 22px;
+    line-height: 51px;
+    text-align: left;
+    font-weight: 600;
+}
+
+.mysanthai-loc p,
+.my-mail-us p,
+.cal-us p {
+    color: #FFFFFF;
+    font-family: GothamRounded;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: left;
+    margin-bottom: 0px;
+}
+
+.cal-us a,
+.my-mail-us a {
+    text-decoration: none !important;
+    color: #fff !important;
+}
+
+.my-santhai-copy-right {
+    border-top: 1px solid #333;
+    padding-top: 15px;
+}
+
+.copy-my p {
+    color: #FFFFFF;
+    font-family: GothamRounded;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: left;
+}
+
+.santhai-link p {
+    color: #582F76;
+    font-family: GothamRounded;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: right;
+}
+
+.linkkkk {
+    border-radius: 100%;
+    background-color: #582F76;
+    width: 23px;
+    height: 23px;
+    padding-right: 5px;
+    padding-top: 2px;
+    color: #000;
+}
+
+@media (max-width: 991px) and (min-width: 768px) {
+    .b-2-c,
+    .b-2-c2 {
+        width: 100%;
+    }
+    .increase-your-sales img {
+        margin: 0px 0px;
+    }
+    .single-channel-info2 img {
+        margin-top: 35px;
+        width: 144px;
+    }
+    .single-channel-info1 img {
+        margin: 20px 0px;
+        width: 150px;
+    }
+    .single-channel-info3 img {
+        width: 144px;
+    }
+    .increase-your-sales p {
+        font-size: 12px;
+        line-height: 23px;
+    }
+    .increase-your-sales h6 {
+        font-size: 13px;
+        line-height: 24px;
+    }
+    .explore-the-power h2 {
+        font-size: 16px;
+        line-height: 21px;
+    }
+    .features-why-my-img {
+        height: 100%;
+    }
+    .on-boarding h4 {
+        font-size: 29px;
+        line-height: 46px;
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    .simple-sign h6,
+    .download-my h6 {
+        font-size: 18px;
+        line-height: 20px;
+    }
+    .simple-sign p,
+    .download-my p {
+        font-size: 14px;
+        line-height: 20px;
+        text-align: left;
+        overflow: hidden;
+        height: 75px;
+    }
+    .partn h5 {
+        font-size: 27px;
+        line-height: 40px;
+        text-align: left;
+    }
+    .technology-partn {
+        padding: 31px 0px;
+    }
+    .mysanthai-loc p,
+    .my-mail-us p,
+    .cal-us p {
+        font-size: 14px;
+        line-height: 22px;
+    }
+    .mysanthai-loc h6,
+    .my-mail-us h6,
+    .cal-us h6 {
+        font-size: 20px;
+        line-height: 44px;
+    }
+    .future-om h1 {
+        font-size: 30px;
+    }
+    .future-om p {
+        font-size: 20px;
+    }
+    .secure-scalable p {
+        font-size: 18px;
+        line-height: 25px;
+    }
+    .deliver-exquisite p {
+        font-size: 14px;
+        line-height: 25px;
+    }
+    .omnichannel-future {
+        padding: 20px 10px 10px 10px;
+    }
+    .main-banner {
+        height: 302px;
+    }
+    .my-santhai-w h3 {
+        font-size: 28px;
+        line-height: 28px;
+    }
+    .how-does-my h4 {
+        font-size: 28px;
+        line-height: 38px;
+        padding: 30px 0px 20px 0px;
+    }
+    .configure-and-showca p {
+        overflow: hidden;
+        height: 80px;
+    }
+    .configure-and-showca h5 {
+        font-size: 16px;
+    }
+    .the-power {
+        padding: 25px !important;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 13px;
+        line-height: 19px;
+        padding: 0px 3px 0px 3px !important;
+    }
+    .logo-santhai img {
+        width: 150px;
+    }
+    .cont-us {
+        margin-left: 0px;
+        padding: 4px 8px;
+        margin-top: -6px;
+    }
+    ul.navbar-nav {
+        padding-top: 8px;
+    }
+    .main-header {
+        padding: 10px 0px;
+    }
+    .copy-my p {
+        font-size: 14px;
+        list-style: none;
+    }
+}
+
+@media (max-width: 425px) and (min-width: 360px) {
+    .b-2-c,
+    .b-2-c2 {
+        width: 100%;
+    }
+    .features-why-my-img {
+        height: 100%;
+    }
+    .need-a-quote {
+        height: 430px;
+    }
+    .future-om h1 {
+        font-size: 32px;
+    }
+    .future-om p {
+        font-size: 22px;
+    }
+    .secure-scalable p {
+        font-size: 18px;
+        line-height: 27px;
+    }
+    .deliver-exquisite p {
+        font-size: 16px;
+        line-height: 25px;
+    }
+    .omnichannel-future {
+        padding: 32px 10px 10px 10px;
+    }
+    .main-banner {
+        height: 337px;
+    }
+    .mult {
+        padding-bottom: 35px;
+        margin-top: 35px;
+    }
+    .explore-the-power h2 {
+        font-size: 24px;
+        line-height: 38px;
+    }
+    .my-santhai-w h3 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .how-does-my h4 {
+        font-size: 30px;
+        line-height: 40px;
+        padding: 40px 0px 20px 0px;
+    }
+    .configure-and-showca p {
+        overflow: hidden;
+        height: 87px;
+    }
+    .configure-and-showca h5 {
+        font-size: 18px;
+    }
+    .on-boarding h4 {
+        font-size: 30px;
+        padding-top: 47px;
+        line-height: 35px;
+    }
+    .simple-sign h6,
+    .download-my h6 {
+        font-size: 18px;
+        line-height: 20px;
+    }
+    .simple-sign p,
+    .download-my p {
+        overflow: hidden;
+        height: 70px;
+        font-size: 14px;
+    }
+    .partn h5 {
+        font-size: 30px;
+        line-height: 40px;
+        padding-bottom: 18px;
+        text-align: center;
+    }
+    .our-partn {
+        text-align: center;
+    }
+    .technology-partn {
+        padding: 50px 0px;
+    }
+    .get-in-touch {
+        padding-top: 25px;
+    }
+    .footer-form-info {
+        width: 100%;
+        margin: 10px auto 0 auto;
+    }
+    .submit-btn {
+        text-align: center;
+        margin-top: 30px;
+    }
+    .get-in-touch h5 {
+        font-size: 28px;
+    }
+    .footer-row {
+        padding: 35px 0px 30px 0px;
+    }
+    .mysanthai-loc h6,
+    .my-mail-us h6,
+    .cal-us h6 {
+        font-size: 20px;
+        line-height: 34px;
+    }
+    .copy-my p {
+        font-size: 14px;
+        line-height: 15px;
+        text-align: center;
+    }
+    .santhai-link p {
+        font-size: 14px;
+        line-height: 15px;
+        text-align: center;
+    }
+    .linkkkk {
+        padding-right: 1px;
+        padding-top: 4px;
+        color: #000;
+    }
+    .logo-santhai img {
+        width: 210px;
+    }
+    .footer-logo img {
+        width: 210px;
+        padding-bottom: 20px;
+    }
+    .fafaicon {
+        color: #fff;
+        border-color: transparent;
+        outline: none;
+    }
+    .navbar-light .navbar-toggler {
+        color: transparent !important;
+        border-color: transparent !important;
+        outline: none;
+        margin-left: 8px;
+    }
+    .cont-us {
+        margin-left: 0px;
+        padding: 2px 8px;
+        width: 110px;
+    }
+    div#nav-content {
+        position: absolute;
+        top: 63px;
+        background-color: rgb(37 34 64);
+        width: 100%;
+        color: rgb(0, 0, 0);
+        opacity: 0.99;
+        z-index: 9;
+    }
+    .main-header {
+        padding: 10px 0px;
+    }
+    .container.mob-fix-menu {
+        padding: 0;
+    }
+    nav.navbar.navbar-expand-sm.navbar-light.bg-faded {
+        padding: 0px;
+    }
+    ul.navbar-nav {
+        padding: 20px;
+    }
+}

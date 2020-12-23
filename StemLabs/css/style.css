@@ -1,0 +1,880 @@
+@font-face {
+    font-family: GothamRounded;
+    src: url(../font/GothamRounded-Book.otf)
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #000 !important;
+    font-size: 16px !important;
+    font-family: GothamRounded;
+    font-weight: 600;
+    padding: 8px 17px !important;
+}
+
+.cont-uss {
+    background-color: #2BB286;
+    border-radius: 23px;
+    padding: 0px 10px;
+}
+
+.main-header {
+    background-image: url(../image/STEM-banner.png);
+    height: 710px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.nelson h1 {
+    color: #F9F971;
+    font-family: GothamRounded;
+    font-size: 29px;
+    line-height: 49px;
+    text-align: left;
+}
+
+span.line {
+    padding-left: 6px;
+}
+
+.edu-text {
+    color: #2BB286;
+    font-family: sans-serif;
+    font-size: 55px;
+    line-height: 39px;
+    font-weight: 700;
+}
+
+.to-empower-enterpris p {
+    color: #fff;
+    font-family: GothamRounded;
+    font-size: 22px;
+    line-height: 39px;
+    padding-right: 63%;
+}
+
+.mandela {
+    margin: 170px 0px;
+}
+
+.introduce-key-stem {
+    background-image: url(../image/Key-stem-bg.png);
+    height: 640px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.science-technology {
+    padding: 50px 0px;
+}
+
+.stem-for h3 {
+    color: #2BB286;
+    font-family: GothamRounded;
+    font-size: 36px;
+    line-height: 43px;
+    text-align: left;
+    font-weight: 600;
+}
+
+.stem-for h4 {
+    color: #4B5B63;
+    font-family: GothamRounded;
+    font-size: 36px;
+    line-height: 41px;
+    font-weight: 600;
+    text-align: left;
+}
+
+.the-continual-advanc p {
+    color: #6F8F9F;
+    font-family: GothamRounded;
+    font-size: 18px;
+    line-height: 27px;
+    text-align: left;
+}
+
+.stem-in-early-childh {
+    background-color: #DEFFF4;
+    padding: 50px 0px;
+}
+
+.stem-in-early h4 {
+    color: #2BB286;
+    font-family: GothamRounded;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+    font-weight: 600;
+}
+
+.stem-in-early h5 {
+    color: #4B5B63;
+    font-family: GothamRounded;
+    font-size: 36px;
+    line-height: 41px;
+    text-align: center;
+    font-weight: 600;
+}
+
+.stem-in-early p {
+    color: #4B5B63;
+    font-family: GothamRounded;
+    font-size: 18px;
+    line-height: 27px;
+    text-align: center;
+}
+
+.key-stem h3 {
+    color: #4B5B63;
+    font-family: GothamRounded;
+    font-size: 36px;
+    line-height: 41px;
+    font-weight: 600;
+    text-align: center;
+}
+
+.ask-questions {
+    background-color: #FFFFFF;
+    border-radius: 8px;
+    box-shadow: 0 2px 9px 0 rgba(173, 173, 173, 0.5);
+    padding: 15px 20px 14px 20px;
+    margin-bottom: 40px;
+}
+
+.questions {
+    display: flex;
+}
+
+.questions img {
+    width: 30px;
+    height: 30px;
+    margin-right: 20px;
+}
+
+.questions p {
+    color: #4B5B63;
+    font-family: GothamRounded;
+    font-size: 14px;
+    line-height: 27px;
+    text-align: left;
+    margin-bottom: 0px;
+    font-weight: 600;
+}
+
+.row.intro-stem {
+    max-width: 750px;
+    margin: 0 auto;
+}
+
+.current-scenario {
+    background-color: #2BB286;
+    padding: 60px 0px;
+}
+
+.sce-current h4 {
+    color: #FFFFFF;
+    font-family: GothamRounded;
+    font-size: 36px;
+    line-height: 41px;
+    text-align: center;
+    font-weight: 600;
+    padding-bottom: 35px;
+}
+
+.sce-img img {
+    border-radius: 24px;
+}
+
+.sce-img {
+    position: relative;
+}
+
+.skill-gap-in-educati {
+    position: absolute;
+    top: 270px;
+    padding: 0px 30px;
+    color: #fff;
+}
+
+.key-stem {
+    padding-bottom: 60px;
+    padding-top: 50px;
+}
+
+.introduce-key-stem {
+    padding: 0px 0px 30px 0px;
+}
+
+.current-sce-img {
+    margin-bottom: 30px;
+}
+
+.skill-gap-in-educati h5 {
+    color: #FFFFFF;
+    font-family: GothamRounded;
+    font-size: 16px;
+    font-weight: 600;
+    text-align: left;
+    overflow: hidden;
+    height: 48px;
+}
+
+.services-off {
+    background-color: #F9F9F9;
+}
+
+.service-offer {
+    padding: 70px 0px 30px 0px;
+}
+
+.what-do-we h4 {
+    color: #2BB286;
+    font-family: GothamRounded;
+    font-size: 36px;
+    line-height: 43px;
+    text-align: left;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.what-do-we h5 {
+    color: #4B5B63;
+    font-family: GothamRounded;
+    font-size: 36px;
+    line-height: 41px;
+    text-align: left;
+    font-weight: 600;
+    padding-bottom: 30px;
+}
+
+.what-do-we p {
+    color: #6F8F9F;
+    font-family: GothamRounded;
+    font-size: 18px;
+    line-height: 27px;
+    text-align: left;
+}
+
+.how-do-we-empower h6 {
+    color: #4B5B63;
+    font-family: GothamRounded;
+    font-size: 24px;
+    line-height: 27px;
+    font-weight: 600;
+    text-align: left;
+    padding: 30px 0px 20px 0px;
+}
+
+.lest-of-empower p {
+    color: #6F8F9F;
+    font-family: GothamRounded;
+    font-size: 18px;
+    line-height: 37px;
+    text-align: left;
+    margin-bottom: 0px;
+}
+
+img.space {
+    margin-right: 20px;
+}
+
+.get-in-tech {
+    background-color: #008786;
+}
+
+.get-in h6 {
+    color: #FFFFFF;
+    font-family: GothamRounded;
+    font-size: 20px;
+    line-height: 25px;
+    text-align: left;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.get-in p {
+    color: #FFFFFF;
+    font-family: GothamRounded;
+    font-size: 16px;
+    line-height: 23px;
+    text-align: left;
+    padding-right: 20%;
+}
+
+.mail-icon a {
+    color: #FFFFFF !important;
+    font-family: GothamRounded;
+    font-size: 16px;
+    line-height: 23px;
+    text-align: left;
+    text-decoration: none !important;
+    padding-left: 20px;
+}
+
+.call-icon a {
+    color: #FFFFFF !important;
+    font-family: GothamRounded;
+    font-size: 16px;
+    line-height: 23px;
+    text-align: left;
+    margin-bottom: 0px;
+    text-decoration: none !important;
+    padding-left: 20px;
+}
+
+.address p {
+    color: #FFFFFF;
+    font-family: GothamRounded;
+    font-size: 16px;
+    line-height: 23px;
+    text-align: left;
+    text-decoration: none !important;
+    padding-left: 20px;
+    padding-right: 20%;
+}
+
+.cal-2 a {
+    color: #FFFFFF !important;
+    font-family: GothamRounded;
+    font-size: 16px;
+    line-height: 23px;
+    text-align: left;
+    text-decoration: none !important;
+    padding-left: 30px;
+}
+
+.call-icon p {
+    margin-bottom: 0px;
+}
+
+.mail-icon,
+.address,
+.call-icon {
+    display: flex;
+}
+
+.ic-clr {
+    color: #fff;
+}
+
+.address,
+.call-icon,
+.mail-icon {
+    padding-top: 20px;
+}
+
+.in-tech {
+    padding: 80px 0px 40px 0px;
+}
+
+.sub-btn button {
+    width: 100%;
+    border: none;
+    outline: none;
+    background-color: #308886;
+    color: #fff;
+    padding: 8px 0px 8px 0px;
+    font-family: GothamRounded;
+    font-size: 14px;
+    line-height: 23px;
+}
+
+.form-sub {
+    background-color: #fff;
+    padding: 60px 40px 40px 40px;
+}
+
+.sub-btn {
+    margin-top: 50px;
+}
+
+.say-some h6 {
+    color: #4B5B63;
+    font-family: GothamRounded;
+    font-size: 20px;
+    line-height: 25px;
+    text-align: left;
+    text-transform: uppercase;
+    font-weight: 600;
+    padding-bottom: 15px;
+}
+
+.get-cont {
+    border-radius: 0px !important;
+    border: 1px solid #008786 !important;
+    font-family: GothamRounded;
+    font-size: 14px !important;
+}
+
+.get-cont-1 {
+    border-radius: 0px !important;
+    border: 1px solid #008786 !important;
+    resize: none;
+    font-family: GothamRounded;
+    font-size: 14px !important;
+}
+
+.the-continual {
+    background-color: #01324A;
+    padding: 20px 0px 0px 0px;
+}
+
+.footer-logo p {
+    color: #FFFFFF;
+    font-family: GothamRounded;
+    font-size: 16px;
+    line-height: 23px;
+    text-align: left;
+    padding-right: 57%;
+    padding-top: 30px;
+}
+
+.footer-logo {
+    display: flex;
+}
+
+.copy-right p {
+    color: #FFFFFF;
+    font-family: GothamRounded;
+    font-size: 14px;
+    line-height: 24px;
+    text-align: left;
+}
+
+.fol-link p {
+    color: #2BB286;
+    font-family: GothamRounded;
+    font-size: 14px;
+    line-height: 24px;
+    text-align: right;
+}
+
+.copy-padd {
+    padding-top: 20px;
+}
+
+.get-form {
+    margin-bottom: -90px;
+    margin-top: 80px;
+}
+
+.linkkkk {
+    border-radius: 100%;
+    background-color: #2BB286;
+    width: 23px;
+    height: 23px;
+    padding-right: 5px;
+    padding-top: 4px;
+    color: #000;
+}
+
+.our-products {
+    background-color: #005B71;
+    padding: 50px 0px 70px 0px;
+}
+
+.our-text h4 {
+    color: #FFFFFF;
+    font-family: GothamRounded;
+    font-size: 36px;
+    line-height: 41px;
+    text-align: center;
+    font-weight: 600;
+    padding: 20px 0px 40px 0px;
+}
+
+.electronic-conce {
+    display: flex;
+}
+
+.electronic-conce img {
+    width: 23px !important;
+    margin: 0px 10px 0px 0px !important;
+}
+
+.education-text h5 {
+    color: #2BB286;
+    font-family: GothamRounded;
+    font-size: 36px;
+    line-height: 47px;
+    text-align: left;
+    font-weight: 700;
+}
+
+.electronic-conce p {
+    color: #FFFFFF;
+    font-family: GothamRounded;
+    font-size: 16px;
+    line-height: 27px;
+    text-align: left;
+    margin-bottom: 5px;
+}
+
+.our-img img {
+    border-radius: 20px;
+    width: 90% !important;
+}
+
+.owl-next {
+    font-size: 16px !important;
+    border-radius: 100% !important;
+    border: 2px solid #fff !important;
+    width: 26px;
+    height: 27px;
+    color: #fff !important;
+    position: absolute;
+    top: 50%;
+    right: -40px;
+    outline: none !important;
+}
+
+.owl-prev {
+    font-size: 16px !important;
+    border-radius: 100% !important;
+    border: 2px solid #fff !important;
+    width: 26px;
+    height: 27px;
+    color: #fff !important;
+    position: absolute;
+    top: 50%;
+    left: -50px;
+    outline: none !important;
+}
+
+.offer-img img {
+    width: 627px;
+    height: 680px;
+}
+
+.offered-platforms {
+    padding: 80px 0px 50px 0px;
+    position: relative;
+}
+
+.plat-forms h3 {
+    color: #4B5B63;
+    font-family: GothamRounded;
+    font-size: 36px;
+    line-height: 41px;
+    font-weight: 700;
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+.electronics {
+    background-color: #FFFFFF;
+    border-radius: 25px;
+    box-shadow: 0 2px 8px 0 rgba(185, 181, 181, 0.5);
+    padding: 40px 10px 40px 10px;
+    margin-bottom: 30px;
+}
+
+.ele-sec {
+    text-align: center;
+}
+
+.ele-sec img {
+    width: 66px;
+    height: 66px;
+}
+
+.ele-sec p {
+    color: #4B5B63;
+    font-family: GothamRounded;
+    font-size: 14px;
+    line-height: 22px;
+    font-weight: 600;
+    padding-top: 29px;
+    margin-bottom: 0;
+}
+
+.elect-ronics {
+    margin-top: 55px;
+}
+
+.col-code {
+    background-color: #008787;
+    opacity: 0.1000000014901161;
+    width: 90%;
+    height: 1019px;
+    position: absolute;
+    top: 111px;
+    z-index: -1;
+    border-radius: 100%;
+    left: -450px;
+}
+
+.col-codetwo {
+    background-color: #FFFEE8;
+    border-radius: 100%;
+    width: 47%;
+    height: 610px;
+    position: absolute;
+    top: 158px;
+    right: 0;
+    z-index: -1;
+    border-top-left-radius: 2300%;
+    border-top-right-radius: 0%;
+    border-bottom-right-radius: 0%;
+    border-bottom-left-radius: 490%;
+}
+
+.col-codetree {
+    background-color: #008787;
+    border-radius: 100%;
+    width: 47%;
+    height: 610px;
+    position: absolute;
+    top: 158px;
+    right: 0;
+    z-index: -1;
+    border-top-left-radius: 2300%;
+    border-top-right-radius: 0%;
+    border-bottom-right-radius: 0%;
+    border-bottom-left-radius: 490%;
+    opacity: 0.1;
+}
+
+.searchicon {
+    font-size: 22px !important;
+    color: #4cb386;
+    margin-right: 20px;
+}
+
+.owl-dots {
+    display: none;
+}
+
+.myindicator li {
+    width: 10px !important;
+    height: 10px !important;
+    border-radius: 100% !important;
+}
+
+.videostext h6 {
+    color: #4B5B63;
+    font-family: GothamRounded;
+    font-size: 36px;
+    line-height: 41px;
+    text-align: center;
+    font-weight: 600;
+    padding: 50px 0px 30px 0px;
+}
+
+.demoowl li {
+    width: 10px !important;
+    height: 10px !important;
+    border-radius: 100%;
+    background-color: #308886 !important;
+}
+
+.videos-sec {
+    margin-bottom: 60px;
+}
+
+.demoowl {
+    top: 100%;
+}
+
+.neeexxx {
+    right: 0px !important;
+    position: absolute !important;
+    top: 130px !important;
+    font-size: 40px !important;
+}
+
+.preee,
+.neeexxx .preee {
+    left: 0px !important;
+    position: absolute !important;
+    top: 130px !important;
+    font-size: 40px !important;
+}
+
+@media (max-width: 991px) and (min-width: 768px) {
+    .offer-img img {
+        width: 100%;
+        height: 100%;
+        margin: 290px 0px;
+    }
+    .main-header {
+        height: 440px
+    }
+    .mandela {
+        margin: 10px 0px;
+    }
+    .edu-text {
+        font-size: 33px;
+    }
+    .stem-for h4 {
+        font-size: 26px;
+    }
+    .the-continual-advanc p {
+        font-size: 17px;
+    }
+    .skill-gap-in-educati h5 {
+        height: 38px;
+    }
+    .skill-gap-in-educati {
+        top: 140px;
+    }
+    .col-code {
+        left: -240px;
+    }
+    .education-text h5 {
+        font-size: 26px;
+        line-height: 38px;
+    }
+    .owl-nav {
+        display: none;
+    }
+    .owl-dots {
+        margin-left: 0px;
+    }
+    .footer-logo p {
+        padding-right: 37%;
+    }
+    .questions p {
+        font-size: 13px;
+    }
+    .owl-dots {
+        display: block;
+        margin-top: 20px;
+    }
+    .preee {
+        display: block;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        padding: 8px 7px !important;
+    }
+}
+
+@media (max-width: 425px) and (min-width: 360px) {
+    .offer-img img {
+        width: 100%;
+        height: 100%;
+    }
+    .introduce-key-stem {
+        height: 100%;
+    }
+    .owl-nav {
+        display: none;
+    }
+    .owl-dots {
+        margin-left: 0px;
+    }
+    .footer-logo p {
+        padding-right: 0px;
+    }
+    .get-form {
+        margin-bottom: 50px;
+        margin-top: 0px;
+    }
+    .copy-right p {
+        text-align: center;
+        margin-bottom: 0px;
+    }
+    .fol-link p {
+        text-align: center;
+    }
+    .linkkkk {
+        padding-right: 0px;
+    }
+    .row.copy-padd {
+        border-top: 1px solid #fff;
+    }
+    .col-code,
+    .col-codetwo,
+    .col-codetree {
+        display: none;
+    }
+    .elect-ronics {
+        margin-top: 0px;
+    }
+    .stem-for h4 {
+        font-size: 26px;
+    }
+    .mandela {
+        margin: 30px 0px 0px 0px;
+    }
+    .edu-text {
+        font-size: 20px;
+    }
+    .to-empower-enterpris p {
+        padding-right: 0px;
+        font-size: 16px;
+        line-height: 27px;
+        text-shadow: 2px 2px #000a0e;
+    }
+    .main-header {
+        height: 370px;
+        background-size: contain;
+    }
+    .nelson h1 {
+        font-size: 18px;
+        line-height: 29px;
+    }
+    .mob-back-clr {
+        background-color: #01324a;
+    }
+    .stem-main-logo img {
+        width: 80px;
+    }
+    .line {
+        display: none;
+    }
+    .science-technology {
+        padding: 0px;
+        margin: -40px 0px 30px 0px;
+    }
+    div#nav-content {
+        position: absolute;
+        top: 86px;
+        background-color: rgb(235 241 151);
+        width: 100%;
+        color: rgb(0, 0, 0);
+        opacity: 0.95;
+    }
+    nav.navbar.navbar-expand-sm.navbar-light.bg-faded {
+        padding: 0px;
+    }
+    .container.mob-back-clr {
+        padding: 0px;
+    }
+    .cont-uss {
+        width: 150px;
+        margin-left: 16px;
+    }
+    .navbar-light .navbar-toggler {
+        color: #fff !important;
+        border-color: transparent !important;
+        outline: none !important;
+        margin-left: 5px;
+    }
+    .skill-gap-in-educati {
+        top: 250px;
+    }
+    ul.navbar-nav {
+        padding-bottom: 10px;
+    }
+    .owl-dots {
+        display: block;
+        margin-top: 20px;
+    }
+    .electron-education {
+        margin-top: 30px;
+    }
+    .our-products {
+        padding: 50px 0px 20px 0px;
+    }
+    .preee,
+    .neeexxx {
+        display: none;
+    }
+    .videostext h6 {
+        padding: 20px 0px 0px 0px;
+    }
+}
